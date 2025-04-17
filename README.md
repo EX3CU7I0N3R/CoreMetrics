@@ -3,13 +3,12 @@
 **CoreMetrics** is a robust Streamlit-based web dashboard for comprehensive employee and project performance monitoring. It integrates seamlessly with a MySQL backend to provide real-time analytics, KPIs, project tracking, and performance management in an intuitive interface.
 
 ## 📚 Table of Contents
-- [Features](##features)
-- [Tech Stack](##tech-stack)
-- [Database Schema](##database-schema)
-- [Setup Instructions](##setup-instructions)
-- [Screenshots](##screenshots)
-- [Contributing](##contributing)
-- [License](##license)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Database Schema](#database-schema)
+- [Setup Instructions](#setup-instructions)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
 
 ---
 
