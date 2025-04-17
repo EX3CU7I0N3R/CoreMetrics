@@ -6,7 +6,7 @@
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Database Schema](#-database-schema)
-- [Setup Instructions](#-setup-instructions)
+- [Setup Instructions](#%EF%B8%8F-setup-instructions)
 - [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
 
